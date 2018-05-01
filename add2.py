@@ -6,4 +6,4 @@ def addNumbers(num1, num2):
 number1 = float(input('enter first number '))
 number2 = float(input('enter second number '))
 #call the function and print
-print(addNumbers(number1,number2))
+print("the total is " + str(addNumbers(number1,number2)))
